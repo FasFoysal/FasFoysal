@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FasFoysal
-- 👀 I’m interested in programing
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Node Js
 - 📫 How to reach me shounfoysal@gmail.com
 
